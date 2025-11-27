@@ -1,4 +1,6 @@
-﻿namespace tic_tac_toe_dotnet_maui
+﻿using Microsoft.Maui;
+
+namespace tic_tac_toe_dotnet_maui
 {
     public partial class AppShell : Shell
     {
