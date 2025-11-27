@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tic-tac-toe-dotnet-maui", "tic-tac-toe-dotnet-maui\tic-tac-toe-dotnet-maui.csproj", "{771EB940-D470-4EC1-8127-CE44ACFC0141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771EB940-D470-4EC1-8127-CE44ACFC0141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771EB940-D470-4EC1-8127-CE44ACFC0141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771EB940-D470-4EC1-8127-CE44ACFC0141}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{771EB940-D470-4EC1-8127-CE44ACFC0141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771EB940-D470-4EC1-8127-CE44ACFC0141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771EB940-D470-4EC1-8127-CE44ACFC0141}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E59E7B1-CC74-4BED-A467-C9D7E62BA754}
+	EndGlobalSection
+EndGlobal
